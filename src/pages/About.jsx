@@ -11,7 +11,7 @@ export const About = () => {
       </div>
 
       <div className='my-10 flex flex-col md:flex-row gap-16'>
-        <img src={assets.about_img} alt="" className='w-full md:max-w-[450px]' />
+        <img src={assets.hero_collection1} alt="" className='w-full md:max-w-[450px]' />
         <div className='flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
           <p>Poésie Intime est une marque qui vous offrent bla bla bla bla bla bla bla bla (A faire) j'aurais besoin d'une description</p>
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit, veritatis deserunt ea labore beatae nesciunt illum ex necessitatibus dolor totam a consequatur pariatur unde fugit eos, asperiores deleniti minima commodi.</p>
