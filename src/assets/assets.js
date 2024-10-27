@@ -56,29 +56,29 @@ import p_img52 from "./p_img52.png";
 
 {/*================ LINGERIE IMAGE =======================*/}
 import img1 from './Lingerie/img1.png';
-import img2 from './Lingerie/img2.JPG';
-import img3 from './Lingerie/img3.JPG';
-import img4 from './Lingerie/img4.JPG';
-import img5 from './Lingerie/img5.JPG';
-import img6 from './Lingerie/img6.JPG';
-import img7 from './Lingerie/img7.JPG';
-import img8 from './Lingerie/img8.JPG';
-import img9 from './Lingerie/img9.JPG';
-import img10 from './Lingerie/img10.JPG';
-import img11 from './Lingerie/img11.JPG';
-import img12 from './Lingerie/img12.JPG';
-import img13 from './Lingerie/img13.JPG';
-import img14 from './Lingerie/img14.JPG';
-import img15 from './Lingerie/img15.JPG';
-import img16 from './Lingerie/img16.JPG';
-import img17 from './Lingerie/img17.JPG';
-import img18 from './Lingerie/img18.JPG';
-import img19 from './Lingerie/img19.JPG';
-import img20 from './Lingerie/img20.JPG';
-import img21 from './Lingerie/img21.JPG';
-import img22 from './Lingerie/img22.JPG';
-import img23 from './Lingerie/img23.JPG';
-import img24 from './Lingerie/img24.JPG';
+import img2 from './Lingerie/img2.png';
+import img3 from './Lingerie/img3.png';
+import img4 from './Lingerie/img4.png';
+import img5 from './Lingerie/img5.png';
+import img6 from './Lingerie/img6.png';
+import img7 from './Lingerie/img7.png';
+import img8 from './Lingerie/img8.png';
+import img9 from './Lingerie/img9.png';
+import img10 from './Lingerie/img10.png';
+import img11 from './Lingerie/img11.png';
+import img12 from './Lingerie/img12.png';
+import img13 from './Lingerie/img13.png';
+import img14 from './Lingerie/img14.png';
+import img15 from './Lingerie/img15.png';
+import img16 from './Lingerie/img16.png';
+import img17 from './Lingerie/img17.png';
+import img18 from './Lingerie/img18.png';
+import img19 from './Lingerie/img19.png';
+import img20 from './Lingerie/img20.png';
+import img21 from './Lingerie/img21.png';
+import img22 from './Lingerie/img22.png';
+import img23 from './Lingerie/img23.png';
+import img24 from './Lingerie/img24.png';
 
 
 {/*================ END OF IMAGE ======================== */}
