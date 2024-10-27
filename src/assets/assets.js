@@ -136,7 +136,7 @@ export const assets = {
 export const products = [
   {
     _id: "aaaaa",
-    name: "Women Round Neck Cotton Top",
+    name: "Nuisette",
     description:
       "Voici ou la description du produit ira, je m'y connait pas trop en lingerie donc hahaha sorry et faut regarder les fautes, je suis un anglophone.",
     price: 100,
